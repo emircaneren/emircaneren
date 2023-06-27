@@ -6,11 +6,9 @@ Web & Python Developer and of course IT Technician
 
 We don't started this job yesterday.
 
-* 🌍  I'm based in Berlin & Istanbul
+* 🌍  I'm based in Germany & Turkiye
 * ✉️  You can contact me at [iletisim@emircaneren.net](mailto:iletisim@emircaneren.net)
-* 🧠  I'm learning Deep Learning
 * 🤝  I'm open to collaborating on Python and Web projects.
-* ⚡  I was a black but not anymoree.
 
 <a href="https://www.twitter.com/emircanerennet" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/emircanerennet?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
