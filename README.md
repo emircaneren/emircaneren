@@ -1,12 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emircan
 ===============================================================================================================================
 
-Web & Python Developer and of course IT Technician
+Web & Python Developer and of course official IT Technician
 --------------------------------------------------
 
 We don't started this job yesterday.
 
-* 🌍  I'm based in Germany & Turkiye
 * ✉️  You can contact me at [iletisim@emircaneren.net](mailto:iletisim@emircaneren.net)
 * 🤝  I'm open to collaborating on Python and Web projects.
 
