@@ -1,6 +1,7 @@
 ###
 
-<h1 align="center">👨🏼‍💻 IT-Systemelektroniker & Developer</h1>
+<h1 align="center">IT-System-Elektroniker & Developer</h1>
+<p align="center">We don't started this job yesterday.</p>
 
 ###
 
@@ -15,10 +16,6 @@
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=14539A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<p align="center"> <u>We don't started this job yesterday.</u></p>
 
 ###
 
