@@ -1,7 +1,6 @@
 ###
 
-<h2 align="center">👩‍💻 IT-Systemelektroniker & Developer</h2>
-
+<h1 align="center">👨🏼‍💻 IT-Systemelektroniker & Developer</h1>
 
 ###
 
@@ -19,7 +18,7 @@
 
 ###
 
-<p align="center"><abbr>We don't started this job yesterday.</abbr></p>
+<p align="center"> <u>We don't started this job yesterday.</u></p>
 
 ###
 
