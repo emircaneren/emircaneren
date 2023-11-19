@@ -1,6 +1,6 @@
 ###
 
-<h3 align="center">👩‍💻 IT-Systemelektroniker & Developer</h3>
+<h2 align="center">👩‍💻 IT-Systemelektroniker & Developer</h2>
 
 
 ###
@@ -19,7 +19,7 @@
 
 ###
 
-<quote align="center">We don't started this job yesterday.</quote>
+<p align="center"><abbr>We don't started this job yesterday.</abbr></p>
 
 ###
 
